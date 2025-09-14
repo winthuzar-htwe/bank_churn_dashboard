@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly.graph_objects as go
+from plotly import graph_objects as go
 from scipy.stats import chi2_contingency
 st.set_page_config(layout='wide')
 
