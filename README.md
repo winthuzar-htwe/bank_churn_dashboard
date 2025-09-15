@@ -1,1 +1,1 @@
-dashboard_bank_churn
+https://bankchurndashboard-vz4wsodftmuasfsweqxiqz.streamlit.app/
